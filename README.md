@@ -1,5 +1,5 @@
 # Hello my name is Nedal :smiley:
-# This is a table
+# This is a table :heart:
 First row | Second row
 -------   | ---------
 Course 1 | Course 2
